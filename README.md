@@ -1,2 +1,2 @@
-# transport
+# proxy
 shm ipc
